@@ -18,6 +18,9 @@ This is useful for source control commit messages and branch names.
 
 2. Install this script
 
+* **Github:** https://github.com/Tharkis/Userscript-Jira-CopyTitle/blob/master/Userscript-Jira-CopyTitle.js
+* **GreasyFork:** https://greasyfork.org/en/scripts/403585-jira-copytitle
+
 ## Contributions
 Original code forked from [bitbucket-cli](https://github.com/rainchen/bitbucket-cli) by [Rain Chen](https://github.com/rainchen)
 
