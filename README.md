@@ -18,6 +18,8 @@ This is useful for source control commit messages and branch names.
 
 2. Install this script
 
+## Contributions
+Original code forked from [bitbucket-cli](https://github.com/rainchen/bitbucket-cli) by [Rain Chen](https://github.com/rainchen)
 
 ## License
 
